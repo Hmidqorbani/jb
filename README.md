@@ -1,4 +1,4 @@
 # jeresh bede
 
 
->> hmidqorbani.github.io\jb
+> [view](hmidqorbani.github.io\jb)
