@@ -1,0 +1,22 @@
+{
+  "name": "jeresh-bede-game",
+  "version": "1.0.0",
+  "description": "Jeresh Bede - A 3D cube smashing game",
+  "main": "game-server.js",
+  "scripts": {
+    "start": "node game-server.js",
+    "dev": "node game-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9"
+  },
+  "keywords": [
+    "game",
+    "3d",
+    "webgl",
+    "nodejs"
+  ],
+  "author": "hamidqorbni",
+  "license": "MIT"
+}
